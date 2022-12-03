@@ -1,2 +1,3 @@
 # Python-language-leaning-note
-My Python language learning note.
+[My](http://github.com/yanboishere/) Python language learning note.
+
